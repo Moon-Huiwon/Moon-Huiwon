@@ -30,7 +30,7 @@ A collaboration-based project using integrated datasets from **Seoul City, KCB, 
 ## 📚 Research
 
 **Master's Thesis:**  
-[_Is Exploration Always Necessary in Multi-Armed Bandit Algorithms?_](https://dcollection.uos.ac.kr/public_resource/pdf/000000035965_20250717171707.pdf)  
+[_Is Exploration Always Necessary in Multi-Armed Bandit Algorithms?_]([https://dcollection.uos.ac.kr/public_resource/pdf/000000035965_20250717171707.pdf](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=5e58ce81698ef66affe0bdc3ef48d419&keyword=is%20necessary%20exploration))  
 A comparative study proposing new exploration-exploitation strategies.
 
 - **Proposed Algorithms:** U1TE, U2TE, UTTE, TSTE  
